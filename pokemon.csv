@@ -1,4 +1,4 @@
-Number,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Image URL,Height,Weight
+Number,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Image URL,Height(m),Weight(kg)
 1,Bulbasaur,Grass Poison,318,45,49,49,65,65,45,1.0,https://img.pokemondb.net/sprites/home/normal/2x/bulbasaur.jpg,0.7,6.9
 2,Ivysaur,Grass Poison,405,60,62,63,80,80,60,1.0,https://img.pokemondb.net/sprites/home/normal/2x/ivysaur.jpg,1.0,13.0
 3,Venusaur,Grass Poison,525,80,82,83,100,100,80,1.0,https://img.pokemondb.net/sprites/home/normal/2x/venusaur.jpg,2.0,100.0
@@ -27,10 +27,10 @@ Number,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Image 
 26,Raichu,Electric,485,60,90,55,90,80,110,1.0,https://img.pokemondb.net/sprites/home/normal/2x/raichu.jpg,0.8,30.0
 27,Sandshrew,Ground,300,50,75,85,20,30,40,1.0,https://img.pokemondb.net/sprites/home/normal/2x/sandshrew.jpg,0.6,12.0
 28,Sandslash,Ground,450,75,100,110,45,55,65,1.0,https://img.pokemondb.net/sprites/home/normal/2x/sandslash.jpg,1.0,29.5
-29,Nidoran♀,Poison,275,55,47,52,40,40,41,1.0,https://img.pokemondb.net/sprites/home/normal/2x/nidoran-f.jpg,Unknown,Unknown
+29,Nidoran♀,Poison,275,55,47,52,40,40,41,1.0,https://img.pokemondb.net/sprites/home/normal/2x/nidoran-f.jpg,0.4,7.0
 30,Nidorina,Poison,365,70,62,67,55,55,56,1.0,https://img.pokemondb.net/sprites/home/normal/2x/nidorina.jpg,0.8,20.0
 31,Nidoqueen,Poison Ground,505,90,92,87,75,85,76,1.0,https://img.pokemondb.net/sprites/home/normal/2x/nidoqueen.jpg,1.3,60.0
-32,Nidoran♂,Poison,273,46,57,40,40,40,50,1.0,https://img.pokemondb.net/sprites/home/normal/2x/nidoran-m.jpg,Unknown,Unknown
+32,Nidoran♂,Poison,273,46,57,40,40,40,50,1.0,https://img.pokemondb.net/sprites/home/normal/2x/nidoran-m.jpg,0.5,9.0
 33,Nidorino,Poison,365,61,72,57,55,55,65,1.0,https://img.pokemondb.net/sprites/home/normal/2x/nidorino.jpg,0.9,19.5
 34,Nidoking,Poison Ground,505,81,102,77,85,75,85,1.0,https://img.pokemondb.net/sprites/home/normal/2x/nidoking.jpg,1.4,62.0
 35,Clefairy,Fairy,323,70,45,48,60,65,35,1.0,https://img.pokemondb.net/sprites/home/normal/2x/clefairy.jpg,0.6,7.5
@@ -120,7 +120,7 @@ Number,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Image 
 119,Seaking,Water,450,80,92,65,65,80,68,1.0,https://img.pokemondb.net/sprites/home/normal/2x/seaking.jpg,1.3,39.0
 120,Staryu,Water,340,30,45,55,70,55,85,1.0,https://img.pokemondb.net/sprites/home/normal/2x/staryu.jpg,0.8,34.5
 121,Starmie,Water Psychic,520,60,75,85,100,85,115,1.0,https://img.pokemondb.net/sprites/home/normal/2x/starmie.jpg,1.1,80.0
-122,Mr. Mime,Psychic Fairy,460,40,45,65,100,120,90,1.0,https://img.pokemondb.net/sprites/home/normal/2x/mr-mime.jpg,Unknown,Unknown
+122,Mr. Mime,Psychic Fairy,460,40,45,65,100,120,90,1.0,https://img.pokemondb.net/sprites/home/normal/2x/mr-mime.jpg,1.3,54.5
 123,Scyther,Bug Flying,500,70,110,80,55,80,105,1.0,https://img.pokemondb.net/sprites/home/normal/2x/scyther.jpg,1.5,56.0
 124,Jynx,Ice Psychic,455,65,50,35,115,95,95,1.0,https://img.pokemondb.net/sprites/home/normal/2x/jynx.jpg,1.4,40.6
 125,Electabuzz,Electric,490,65,83,57,95,85,105,1.0,https://img.pokemondb.net/sprites/home/normal/2x/electabuzz.jpg,1.1,30.0
@@ -437,7 +437,7 @@ Number,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Image 
 436,Bronzor,Steel Psychic,300,57,24,86,24,86,23,4.0,https://img.pokemondb.net/sprites/home/normal/2x/bronzor.jpg,0.5,60.5
 437,Bronzong,Steel Psychic,500,67,89,116,79,116,33,4.0,https://img.pokemondb.net/sprites/home/normal/2x/bronzong.jpg,1.3,187.0
 438,Bonsly,Rock,290,50,80,95,10,45,10,4.0,https://img.pokemondb.net/sprites/home/normal/2x/bonsly.jpg,0.5,15.0
-439,Mime Jr.,Psychic Fairy,310,20,25,45,70,90,60,4.0,https://img.pokemondb.net/sprites/home/normal/2x/mime-jr.jpg,Unknown,Unknown
+439,Mime Jr.,Psychic Fairy,310,20,25,45,70,90,60,4.0,https://img.pokemondb.net/sprites/home/normal/2x/mime-jr.jpg,0.6,13.0
 440,Happiny,Normal,220,100,5,5,15,65,30,4.0,https://img.pokemondb.net/sprites/home/normal/2x/happiny.jpg,0.6,24.4
 441,Chatot,Normal Flying,411,76,65,45,92,42,91,4.0,https://img.pokemondb.net/sprites/home/normal/2x/chatot.jpg,0.5,1.9
 442,Spiritomb,Ghost Dark,485,50,92,108,92,108,35,4.0,https://img.pokemondb.net/sprites/home/normal/2x/spiritomb.jpg,1.0,108.0
@@ -667,7 +667,7 @@ Number,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Image 
 666,Vivillon,Bug Flying,411,80,52,50,90,50,89,6.0,https://img.pokemondb.net/sprites/home/normal/2x/vivillon.jpg,1.2,17.0
 667,Litleo,Fire Normal,369,62,50,58,73,54,72,6.0,https://img.pokemondb.net/sprites/home/normal/2x/litleo.jpg,0.6,13.5
 668,Pyroar,Fire Normal,507,86,68,72,109,66,106,6.0,https://img.pokemondb.net/sprites/home/normal/2x/pyroar.jpg,1.5,81.5
-669,Flabébé,Fairy,303,44,38,39,61,79,42,6.0,https://img.pokemondb.net/sprites/home/normal/2x/flabebe.jpg,Unknown,Unknown
+669,Flabébé,Fairy,303,44,38,39,61,79,42,6.0,https://img.pokemondb.net/sprites/home/normal/2x/flabebe.jpg,0.1,0.1
 670,Floette,Fairy,371,54,45,47,75,98,52,6.0,https://img.pokemondb.net/sprites/home/normal/2x/floette.jpg,0.2,0.9
 671,Florges,Fairy,552,78,65,68,112,154,75,6.0,https://img.pokemondb.net/sprites/home/normal/2x/florges.jpg,1.1,10.0
 672,Skiddo,Grass,350,66,65,48,62,57,52,6.0,https://img.pokemondb.net/sprites/home/normal/2x/skiddo.jpg,0.9,31.0
@@ -770,7 +770,7 @@ Number,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Image 
 769,Sandygast,Ghost Ground,320,55,55,80,70,45,15,7.0,https://img.pokemondb.net/sprites/home/normal/2x/sandygast.jpg,0.5,70.0
 770,Palossand,Ghost Ground,480,85,75,110,100,75,35,7.0,https://img.pokemondb.net/sprites/home/normal/2x/palossand.jpg,1.3,250.0
 771,Pyukumuku,Water,410,55,60,130,30,130,5,7.0,https://img.pokemondb.net/sprites/home/normal/2x/pyukumuku.jpg,0.3,1.2
-772,Type: Null,Normal,534,95,95,95,95,95,59,7.0,https://img.pokemondb.net/sprites/home/normal/2x/type-null.jpg,Unknown,Unknown
+772,Type: Null,Normal,534,95,95,95,95,95,59,7.0,https://img.pokemondb.net/sprites/home/normal/2x/type-null.jpg,1.9,120.5
 773,Silvally,Normal,570,95,95,95,95,95,95,7.0,https://img.pokemondb.net/sprites/home/normal/2x/silvally.jpg,2.3,100.5
 774,Minior,Rock Flying,440,60,60,100,60,100,60,7.0,https://img.pokemondb.net/sprites/home/normal/2x/minior.jpg,0.3,40.0
 775,Komala,Normal,480,65,115,65,75,95,65,7.0,https://img.pokemondb.net/sprites/home/normal/2x/komala.jpg,0.4,19.9
@@ -783,10 +783,10 @@ Number,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Image 
 782,Jangmo-o,Dragon,300,45,55,65,45,45,45,7.0,https://img.pokemondb.net/sprites/home/normal/2x/jangmo-o.jpg,0.6,29.7
 783,Hakamo-o,Dragon Fighting,420,55,75,90,65,70,65,7.0,https://img.pokemondb.net/sprites/home/normal/2x/hakamo-o.jpg,1.2,47.0
 784,Kommo-o,Dragon Fighting,600,75,110,125,100,105,85,7.0,https://img.pokemondb.net/sprites/home/normal/2x/kommo-o.jpg,1.6,78.2
-785,Tapu Koko,Electric Fairy,570,70,115,85,95,75,130,7.0,https://img.pokemondb.net/sprites/home/normal/2x/tapu-koko.jpg,Unknown,Unknown
-786,Tapu Lele,Psychic Fairy,570,70,85,75,130,115,95,7.0,https://img.pokemondb.net/sprites/home/normal/2x/tapu-lele.jpg,Unknown,Unknown
-787,Tapu Bulu,Grass Fairy,570,70,130,115,85,95,75,7.0,https://img.pokemondb.net/sprites/home/normal/2x/tapu-bulu.jpg,Unknown,Unknown
-788,Tapu Fini,Water Fairy,570,70,75,115,95,130,85,7.0,https://img.pokemondb.net/sprites/home/normal/2x/tapu-fini.jpg,Unknown,Unknown
+785,Tapu Koko,Electric Fairy,570,70,115,85,95,75,130,7.0,https://img.pokemondb.net/sprites/home/normal/2x/tapu-koko.jpg,1.8,20.5
+786,Tapu Lele,Psychic Fairy,570,70,85,75,130,115,95,7.0,https://img.pokemondb.net/sprites/home/normal/2x/tapu-lele.jpg,1.2,18.6
+787,Tapu Bulu,Grass Fairy,570,70,130,115,85,95,75,7.0,https://img.pokemondb.net/sprites/home/normal/2x/tapu-bulu.jpg,1.9,45.5
+788,Tapu Fini,Water Fairy,570,70,75,115,95,130,85,7.0,https://img.pokemondb.net/sprites/home/normal/2x/tapu-fini.jpg,1.3,21.2
 789,Cosmog,Psychic,200,43,29,31,29,31,37,7.0,https://img.pokemondb.net/sprites/home/normal/2x/cosmog.jpg,0.2,0.1
 790,Cosmoem,Psychic,400,43,29,131,29,131,37,7.0,https://img.pokemondb.net/sprites/home/normal/2x/cosmoem.jpg,0.1,999.9
 791,Solgaleo,Psychic Steel,680,137,137,107,113,89,97,7.0,https://img.pokemondb.net/sprites/home/normal/2x/solgaleo.jpg,3.4,230.0
@@ -863,8 +863,8 @@ Number,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Image 
 862,Obstagoon,Dark Normal,520,93,90,101,60,81,95,8.0,https://img.pokemondb.net/sprites/home/normal/2x/obstagoon.jpg,1.6,46.0
 863,Perrserker,Steel,440,70,110,100,50,60,50,8.0,https://img.pokemondb.net/sprites/home/normal/2x/perrserker.jpg,0.8,28.0
 864,Cursola,Ghost,510,60,95,50,145,130,30,8.0,https://img.pokemondb.net/sprites/home/normal/2x/cursola.jpg,1.0,0.4
-865,Sirfetch'd,Fighting,507,62,135,95,68,82,65,8.0,https://img.pokemondb.net/sprites/home/normal/2x/sirfetchd.jpg,Unknown,Unknown
-866,Mr. Rime,Ice Psychic,520,80,85,75,110,100,70,8.0,https://img.pokemondb.net/sprites/home/normal/2x/mr-rime.jpg,Unknown,Unknown
+865,Sirfetch'd,Fighting,507,62,135,95,68,82,65,8.0,https://img.pokemondb.net/sprites/home/normal/2x/sirfetchd.jpg,0.8,117.0
+866,Mr. Rime,Ice Psychic,520,80,85,75,110,100,70,8.0,https://img.pokemondb.net/sprites/home/normal/2x/mr-rime.jpg,1.5,58.2
 867,Runerigus,Ground Ghost,483,58,95,145,50,105,30,8.0,https://img.pokemondb.net/sprites/home/normal/2x/runerigus.jpg,1.6,66.6
 868,Milcery,Fairy,270,45,40,40,50,61,34,8.0,https://img.pokemondb.net/sprites/home/normal/2x/milcery.jpg,0.2,0.3
 869,Alcremie,Fairy,495,65,60,75,110,121,64,8.0,https://img.pokemondb.net/sprites/home/normal/2x/alcremie.jpg,0.3,0.5
@@ -982,18 +982,18 @@ Number,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Image 
 981,Farigiraf,Normal Psychic,520,120,90,70,110,70,60,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/farigiraf.png,3.2,160.0
 982,Dudunsparce,Normal,520,125,100,80,85,75,55,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/dudunsparce.png,3.6,39.2
 983,Kingambit,Dark Steel,550,100,135,120,60,85,50,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/kingambit.png,2.0,120.0
-984,Great Tusk,Ground Fighting,570,115,131,131,53,53,87,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/great-tusk.png,Unknown,Unknown
-985,Scream Tail,Fairy Psychic,570,115,65,99,65,115,111,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/scream-tail.png,Unknown,Unknown
-986,Brute Bonnet,Grass Dark,570,111,127,99,79,99,55,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/brute-bonnet.png,Unknown,Unknown
-987,Flutter Mane,Ghost Fairy,570,55,55,55,135,135,135,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/flutter-mane.png,Unknown,Unknown
-988,Slither Wing,Bug Fighting,570,85,135,79,85,105,81,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/slither-wing.png,Unknown,Unknown
-989,Sandy Shocks,Electric Ground,570,85,81,97,121,85,101,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/sandy-shocks.png,Unknown,Unknown
-990,Iron Treads,Ground Steel,570,90,112,120,72,70,106,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-treads.png,Unknown,Unknown
-991,Iron Bundle,Ice Water,570,56,80,114,124,60,136,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-bundle.png,Unknown,Unknown
-992,Iron Hands,Fighting Electric,570,154,140,108,50,68,50,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-hands.png,Unknown,Unknown
-993,Iron Jugulis,Dark Flying,570,94,80,86,122,80,108,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-jugulis.png,Unknown,Unknown
-994,Iron Moth,Fire Poison,570,80,70,60,140,110,110,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-moth.png,Unknown,Unknown
-995,Iron Thorns,Rock Electric,570,100,134,110,70,84,72,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-thorns.png,Unknown,Unknown
+984,Great Tusk,Ground Fighting,570,115,131,131,53,53,87,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/great-tusk.png,2.2,320.0
+985,Scream Tail,Fairy Psychic,570,115,65,99,65,115,111,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/scream-tail.png,1.2,8.0
+986,Brute Bonnet,Grass Dark,570,111,127,99,79,99,55,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/brute-bonnet.png,1.2,21.0
+987,Flutter Mane,Ghost Fairy,570,55,55,55,135,135,135,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/flutter-mane.png,1.4,4.0
+988,Slither Wing,Bug Fighting,570,85,135,79,85,105,81,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/slither-wing.png,3.2,92.0
+989,Sandy Shocks,Electric Ground,570,85,81,97,121,85,101,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/sandy-shocks.png,2.3,60.0
+990,Iron Treads,Ground Steel,570,90,112,120,72,70,106,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-treads.png,0.9,240.0
+991,Iron Bundle,Ice Water,570,56,80,114,124,60,136,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-bundle.png,0.6,11.0
+992,Iron Hands,Fighting Electric,570,154,140,108,50,68,50,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-hands.png,1.8,380.7
+993,Iron Jugulis,Dark Flying,570,94,80,86,122,80,108,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-jugulis.png,1.3,111.0
+994,Iron Moth,Fire Poison,570,80,70,60,140,110,110,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-moth.png,1.2,36.0
+995,Iron Thorns,Rock Electric,570,100,134,110,70,84,72,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-thorns.png,1.6,303.0
 996,Frigibax,Dragon Ice,320,65,75,45,35,45,55,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/frigibax.png,0.5,17.0
 997,Arctibax,Dragon Ice,423,90,95,66,45,65,62,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/arctibax.png,0.8,30.0
 998,Baxcalibur,Dragon Ice,600,115,145,92,75,86,87,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/baxcalibur.png,2.1,210.0
@@ -1003,12 +1003,12 @@ Number,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Image 
 1002,Chien-Pao,Dark Ice,570,80,120,80,90,65,135,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/chien-pao.png,1.9,152.2
 1003,Ting-Lu,Dark Ground,570,155,110,125,55,80,45,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/ting-lu.png,2.7,699.7
 1004,Chi-Yu,Dark Fire,570,55,80,80,135,120,100,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/chi-yu.png,0.4,4.9
-1005,Roaring Moon,Dragon Dark,590,105,139,71,55,101,119,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/roaring-moon.png,Unknown,Unknown
-1006,Iron Valiant,Fairy Fighting,590,74,130,90,120,60,116,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-valiant.png,Unknown,Unknown
+1005,Roaring Moon,Dragon Dark,590,105,139,71,55,101,119,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/roaring-moon.png,2.0,380.0
+1006,Iron Valiant,Fairy Fighting,590,74,130,90,120,60,116,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-valiant.png,1.4,35.0
 1007,Koraidon,Fighting Dragon,670,100,135,115,85,100,135,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/koraidon.png,2.5,303.0
 1008,Miraidon,Electric Dragon,670,100,85,100,135,115,135,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/miraidon.png,3.5,240.0
-1009,Walking Wake,Water Dragon,590,99,83,91,125,83,109,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/walking-wake.png,Unknown,Unknown
-1010,Iron Leaves,Grass Psychic,590,90,130,88,70,108,104,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-leaves.png,Unknown,Unknown
+1009,Walking Wake,Water Dragon,590,99,83,91,125,83,109,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/walking-wake.png,3.5,280.0
+1010,Iron Leaves,Grass Psychic,590,90,130,88,70,108,104,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-leaves.png,1.5,125.0
 1011,Dipplin,Grass Dragon,485,80,80,110,95,80,40,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/dipplin.png,0.4,4.4
 1012,Poltchageist,Grass Ghost,308,40,45,45,74,54,50,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/poltchageist.png,0.1,1.1
 1013,Sinistcha,Grass Ghost,508,71,60,106,121,80,70,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/sinistcha.png,0.2,2.2
@@ -1018,9 +1018,9 @@ Number,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Image 
 1017,Ogerpon,Grass,550,80,120,84,60,96,110,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/ogerpon.png,1.2,39.8
 1018,Archaludon,Steel Dragon,600,90,105,130,125,65,85,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/archaludon.png,2.0,60.0
 1019,Hydrapple,Grass Dragon,540,106,80,110,120,80,44,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/hydrapple.png,1.8,93.0
-1020,Gouging Fire,Fire Dragon,590,105,115,121,65,93,91,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/gouging-fire.png,Unknown,Unknown
-1021,Raging Bolt,Electric Dragon,590,125,73,91,137,89,75,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/raging-bolt.png,Unknown,Unknown
-1022,Iron Boulder,Rock Psychic,590,90,120,80,68,108,124,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-boulder.png,Unknown,Unknown
-1023,Iron Crown,Steel Psychic,590,90,72,100,122,108,98,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-crown.png,Unknown,Unknown
+1020,Gouging Fire,Fire Dragon,590,105,115,121,65,93,91,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/gouging-fire.png,3.5,590.0
+1021,Raging Bolt,Electric Dragon,590,125,73,91,137,89,75,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/raging-bolt.png,5.2,480.0
+1022,Iron Boulder,Rock Psychic,590,90,120,80,68,108,124,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-boulder.png,1.5,162.5
+1023,Iron Crown,Steel Psychic,590,90,72,100,122,108,98,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-crown.png,1.6,156.0
 1024,Terapagos,Normal,450,90,65,85,65,85,60,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/terapagos.png,0.2,6.5
 1025,Pecharunt,Poison Ghost,600,88,88,160,88,88,88,9.0,https://img.pokemondb.net/sprites/scarlet-violet/normal/pecharunt.png,0.3,0.3
