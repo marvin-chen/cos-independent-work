@@ -6,3 +6,6 @@ scikit-learn
 tensorflow
 matplotlib
 jupyter
+tabulate
+pillow
+scikit-image
