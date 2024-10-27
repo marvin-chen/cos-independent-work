@@ -1,4 +1,4 @@
-Number,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Image URL,Height,Weight
+Number,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Image URL,Height(m),Weight(kg)
 0001,Bulbasaur,Grass Poison,318,45,49,49,65,65,45,1.0,https://img.pokemondb.net/sprites/home/normal/2x/bulbasaur.jpg,0.7,6.9
 0002,Ivysaur,Grass Poison,405,60,62,63,80,80,60,1.0,https://img.pokemondb.net/sprites/home/normal/2x/ivysaur.jpg,1.0,13.0
 0003,Venusaur,Grass Poison,525,80,82,83,100,100,80,1.0,https://img.pokemondb.net/sprites/home/normal/2x/venusaur.jpg,2.0,100.0
