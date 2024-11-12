@@ -2,9 +2,9 @@
 Github Repo for an Independent Work Seminar at Princeton
 
 ## Predicting Pokémon Type and Generation Using Machine Learning Techniques - Work in Progress
-This project focuses on predicting Pokemon types and generations using various machine learning models. We've implemented and compared several algorithms to classify Pokemon based on their stats and characteristics.
+This project focuses on predicting Pokemon types and generations using various machine learning models. So far I have implemented and compared several algorithms to classify Pokemon based on their stats and characteristics.
 ### Project Overview
-Data: We're using a dataset of Pokemon with features like HP, Attack, Defense, Special Attack, Special Defense, Speed, Height, and Weight.
+Data: I am using a dataset of Pokemon with features like HP, Attack, Defense, Special Attack, Special Defense, Speed, Height, and Weight. The dataset is scraped from https://pokemondb.net/pokedex/all. 
 
 #### Prediction Tasks:
 - Primary Type Prediction
@@ -12,7 +12,7 @@ Data: We're using a dataset of Pokemon with features like HP, Attack, Defense, S
 - Generation Prediction
 
 ### Models Implemented
-We've experimented with several machine learning models:
+I have experimented with several machine learning models so far:
 1. Logistic Regression
 2. K-Nearest Neighbors (KNN)
 3. Random Forests
@@ -20,7 +20,7 @@ We've experimented with several machine learning models:
 5. Gradient Boosting (XGBoost)
 
 ### Methodology
-For each model, we've followed these steps:
+For each model, the general implementation steps are as follows:
 1. Data preprocessing and splitting
 2. Initial model training without cross-validation
 3. Cross-validation and hyperparameter tuning
