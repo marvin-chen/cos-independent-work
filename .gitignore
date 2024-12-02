@@ -18,6 +18,12 @@ dist/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
+# Model files
+*.keras
+*.h5
+*.hdf5
+best_pokemon_model.keras
+
 # Other
 .idea/
 .vscode/
