@@ -27,5 +27,8 @@ For each model, the general implementation steps are as follows:
 4. Performance evaluation using metrics like accuracy, Hamming loss, and classification reports
 5. Feature importance analysis
 
-### Links to Presentation and Papaer
+### Links to Presentation and Paper
+
+[Presentation](https://docs.google.com/presentation/d/1lvn_X2YDKrxh98rJ1b5Sf_VTFWAOEyn3QLPu3w5grqI/edit?usp=sharing)
+
 
