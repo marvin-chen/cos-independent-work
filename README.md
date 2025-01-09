@@ -31,4 +31,4 @@ For each model, the general implementation steps are as follows:
 
 [Presentation](https://docs.google.com/presentation/d/1lvn_X2YDKrxh98rJ1b5Sf_VTFWAOEyn3QLPu3w5grqI/edit?usp=sharing)
 
-[Paper](https://drive.google.com/file/d/1Uo3hL6efKodFSBFrzdvcOWCQvabNWQxu/view?usp=sharing)
+[Paper](https://drive.google.com/file/d/1W-KYT8jgr0K2Bi2MAVH0-HYKM11lEk2n/view?usp=sharing)
